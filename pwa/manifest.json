@@ -1,0 +1,15 @@
+{
+    "name": "Togachy Blog",
+    "short_name": "Togachy Blog",
+    "description": "...",
+    "icons": [{
+      "src": "icons/180.png",
+      "sizes": "180x180",
+      "type": "image/png"
+    }],
+    "background_color": "#fff",
+    "theme_color": "#000",
+    "start_url": "/",
+    "display": "standalone",
+    "orientation": "portrait"
+  }
