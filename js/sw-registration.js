@@ -48,8 +48,8 @@ if(navigator.serviceWorker){
     if(data.command == "UPDATE_FOUND"){
       console.log("UPDATE_FOUND_BY_SW", data);
       createSnackbar({
-        message: "Content updated.",
-        actionText:"refresh",
+        message: "帖子已更新",
+        actionText:"确认刷新",
         action: function(e){location.reload()}
       })
     }
