@@ -5,7 +5,8 @@ subtitle: "阿杰的《倩女幽魂》"
 date: 2022-03-10
 author: "Togachy"
 header-img: "img/post-bg.jpeg"
-tags: [音乐]
+tags: 
+    - 音乐
 ---
 
 喜欢带着耳机，降噪开到最大，边写代码，边听一些东西。

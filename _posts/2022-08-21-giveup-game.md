@@ -5,7 +5,8 @@ subtitle: "fucking HearthStone"
 date: 2022-08-21
 author: "Togachy"
 header-img: "img/post-bg.jpeg"
-tags: [感悟]
+tags: 
+    - 感悟
 ---
 
 再一次删了游戏。。。确实是消磨时间。。。  
